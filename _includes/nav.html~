@@ -1,54 +1,56 @@
-      <!-- Header start -->
-      <header id="header" class="header header-classic">
-         <div class="container">
-           <nav class="navbar navbar-expand-lg navbar-light">
-	     <!-- logo-->
-	     <svg height="79">
-	       <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" style="font-weight: 100; font-size: larger;" fill="black">Protein Electrostatics 2020</text>
-	     </svg>
-               
-               
-	       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown"
-                  aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
-                  <span class="navbar-toggler-icon"><i class="icon icon-menu"></i></span>
-               </button>
-               <div class="collapse navbar-collapse" id="navbarNavDropdown">
-                  <ul class="navbar-nav ml-auto">
-		     <li class="nav-item">
-                        <a href="index.html">Home</a>
-                     </li>
-		     <li class="nav-item">
-                        <a href="committees.html">Committees</a>
-                     </li>
-                     <li class="dropdown nav-item">
-                        <a data-toggle="dropdown">Programme <i class="fa fa-angle-down"></i></a>
-                        <ul class="dropdown-menu" role="menu">
-                          <li><a href="programme.html">Conference Programme</a></li>
-			  <li><a href="satellite.html">CECAM Satellite Meeting Programme</a></li>
-                          <li><a href="participants.html">Participants</a></li>
-                          <li><a href="book-of-abstracts.html">Book of Abstracts</a></li>
-                        </ul>
-                     </li>
-                     <li class="dropdown nav-item">
-                        <a data-toggle="dropdown">Registration <i class="fa fa-angle-down"></i></a>
-                        <ul class="dropdown-menu" role="menu">
-                           <li><a href="registration.html">Registration</a></li>
-                           <li><a href="abstrat-submission.html">Abstract Submission</a></li>
-                        </ul>
-                     </li>
-                     <li class="nav-item dropdown">
-                        <a data-toggle="dropdown">Information <i class="fa fa-angle-down"></i></a>
-                        <ul class="dropdown-menu" role="menu">
-                           <li><a href="venue.html">Venue</a></li>
-                           <li><a href="genova.html">Genova</a></li>
-			   <li><a href="accomodation.html">Accomodation</a></li>
-			   <li><a href="contacts.html">Contacts</a></li>
-			   <li><a href="past-editions.html">Past Editions</a></li>
-                        </ul>
-                     </li>
-                  </ul>
-               </div>
-            </nav>
-         </div><!-- container end-->
-      </header>
-      <!--/ Header end -->
+<!-- Header start -->
+<header id="header" class="header header-classic">
+  <div class="container">
+    <nav class="navbar navbar-expand-lg navbar-light">
+      <!-- logo-->
+      <a href="index.html">
+      <svg height="79">
+	<text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" style="font-weight: 100; font-size: larger;" fill="black">Protein Electrostatics 2020</text>
+      </svg>
+      </a>
+      
+      
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown"
+              aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"><i class="icon icon-menu"></i></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarNavDropdown">
+        <ul class="navbar-nav ml-auto">
+	  <li class="nav-item">
+            <a href="index.html">Home</a>
+          </li>
+	  <li class="nav-item">
+            <a href="committees.html">Committees</a>
+          </li>
+          <li class="dropdown nav-item">
+            <a data-toggle="dropdown">Programme <i class="fa fa-angle-down"></i></a>
+            <ul class="dropdown-menu" role="menu">
+              <li><a href="participants.html">Participants</a></li>
+	      <li><a href="programme.html" style="cursor: default; color: #666">Conference Programme</a></li>
+	      <li><a href="satellite.html" style="cursor: default; color: #666">CECAM Satellite Meeting Programme</a></li>
+              <li><a href="" style="cursor: default; color: #666">Book of Abstracts</a></li>
+            </ul>
+          </li>
+          <li class="dropdown nav-item">
+            <a data-toggle="dropdown">Registration <i class="fa fa-angle-down"></i></a>
+            <ul class="dropdown-menu" role="menu">
+              <li><a href="registration.html">Registration</a></li>
+              <li><a href="abstrat-submission.html">Abstract Submission</a></li>
+            </ul>
+          </li>
+          <li class="nav-item dropdown">
+            <a data-toggle="dropdown">Information <i class="fa fa-angle-down"></i></a>
+            <ul class="dropdown-menu" role="menu">
+              <li><a href="venue.html" style="cursor: default; color: #666">Venue</a></li>
+              <li><a href="genova.html">Genova</a></li>
+	      <li><a href="accomodation.html" style="cursor: default; color: #666">Accomodation</a></li>
+	      <li><a href="contacts.html">Contacts</a></li>
+	      <li><a href="past-editions.html">Past Editions</a></li>
+            </ul>
+          </li>
+        </ul>
+      </div>
+    </nav>
+  </div><!-- container end-->
+</header>
+<!--/ Header end -->

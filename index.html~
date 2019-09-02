@@ -4,8 +4,6 @@ title: Protein Electrostatics 2020, Genova
 ---
 
 
-<div class="body-inner">
-  <!-- banner start-->
   <section class="hero-area centerd-item">
     <div class="banner-item" style="background-image:url(./images/hero_area/main2_glow.jpeg)">
       <div class="container">
@@ -174,80 +172,80 @@ title: Protein Electrostatics 2020, Genova
       <!-- ts funfact end-->
 
 
-            <!-- ts speaker start-->
-      <section id="ts-speakers" class="ts-speakers section-bg">
-         <div class="container">
+  <!-- ts speaker start-->
+  <section id="ts-speakers" class="ts-speakers section-bg">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8 mx-auto">
+          <h2 class="section-title text-center">
+            <span>PE2020</span>
+            Confirmed Speakers
+          </h2>
+        </div><!-- col end-->
+      </div><!-- row end-->
+      <div class="row">
+        <div class="col-lg-3 col-md-6">
+          <div class="ts-speaker">
+            <div class="speaker-img">
+              <img class="img-fluid" src="images/speakers/simonson.jpg" alt="">
+              <a href="#popup_1" class="view-speaker ts-image-popup" data-effect="mfp-zoom-in">
+                <i class="icon icon-plus"></i>
+              </a>
+            </div>
+            <div class="ts-speaker-info">
+              <h3 class="ts-title"><a href="#">Thomas Simonson</a></h3>
+              <p>
+                Ecole Polytechnique<br>France
+              </p>
+            </div>
+          </div>
+          <!-- popup start-->
+          <div id="popup_1" class="container ts-speaker-popup mfp-hide">
             <div class="row">
-               <div class="col-lg-8 mx-auto">
-                  <h2 class="section-title text-center">
-                     <span>PE2020</span>
-                     Confirmed Speakers
-                  </h2>
-               </div><!-- col end-->
-            </div><!-- row end-->
-            <div class="row">
-               <div class="col-lg-3 col-md-6">
-                  <div class="ts-speaker">
-                     <div class="speaker-img">
-                        <img class="img-fluid" src="images/speakers/simonson.jpg" alt="">
-                        <a href="#popup_1" class="view-speaker ts-image-popup" data-effect="mfp-zoom-in">
-                                    <i class="icon icon-plus"></i>
-                                </a>
-                     </div>
-                     <div class="ts-speaker-info">
-                        <h3 class="ts-title"><a href="#">Thomas Simonson</a></h3>
+              <div class="col-lg-6">
+                <div class="ts-speaker-popup-img">
+                  <img src="images/speakers/simonson.jpg" alt="">
+                </div>
+              </div><!-- col end-->
+              <div class="col-lg-6">
+                <div class="ts-speaker-popup-content">
+                  <h3 class="ts-title">Thomas Simonson</h3>
+                  <span class="speakder-designation">Principal Investigator</span>
+                  <p>
+		    My group uses computer modeling and
+		    simulation to study structure-function
+		    relationships in proteins, as well as
+		    protein evolution. We use
+		    state-of-the-art simulation
+		    techniques, including computational
+		    protein design, molecular dynamics,
+		    continuum electrostatics, and free
+		    energy perturbation techniques, and a
+		    significant portion of our effort is
+		    directed at the development of new
+		    techniques as new needs arise.
+                  </p>
+                  <div class="row">
+                    <div class="col-lg-12">
+                      <div class="speaker-session-info">
+                        <h4>Day 1</h4>
+                        <span>
+                          10.30 - 11.30 am
+                        </span>
                         <p>
-                           Ecole Polytechnique<br>France
+                          Computational protein design: software implementation, parameter optimization, and performance
                         </p>
-                     </div>
+                      </div>
+                    </div>
+                    
                   </div>
-                  <!-- popup start-->
-                  <div id="popup_1" class="container ts-speaker-popup mfp-hide">
-                     <div class="row">
-                        <div class="col-lg-6">
-                           <div class="ts-speaker-popup-img">
-                              <img src="images/speakers/simonson.jpg" alt="">
-                           </div>
-                        </div><!-- col end-->
-                                                <div class="col-lg-6">
-                           <div class="ts-speaker-popup-content">
-                              <h3 class="ts-title">Thomas Simonson</h3>
-                              <span class="speakder-designation">Principal Investigator</span>
-                              <p>
-				My group uses computer modeling and
-				simulation to study structure-function
-				relationships in proteins, as well as
-				protein evolution. We use
-				state-of-the-art simulation
-				techniques, including computational
-				protein design, molecular dynamics,
-				continuum electrostatics, and free
-				energy perturbation techniques, and a
-				significant portion of our effort is
-				directed at the development of new
-				techniques as new needs arise.
-                              </p>
-                              <div class="row">
-                                 <div class="col-lg-12">
-                                    <div class="speaker-session-info">
-                                       <h4>Day 1</h4>
-                                       <span>
-                                                   10.30 - 11.30 am
-                                             </span>
-                                       <p>
-                                          Computational protein design: software implementation, parameter optimization, and performance
-                                       </p>
-                                    </div>
-                                 </div>
-                                 
-                              </div>
-                              
-                           </div><!-- ts-speaker-popup-content end-->
-                        </div><!-- col end-->
-                     </div><!-- row end-->
-                  </div><!-- popup end-->
-               </div> <!-- col end-->
-               <div class="col-lg-3 col-md-6">
+                  
+                </div><!-- ts-speaker-popup-content end-->
+              </div><!-- col end-->
+            </div><!-- row end-->
+          </div><!-- popup end-->
+        </div> <!-- col end-->
+        <div class="col-lg-3 col-md-6">
                   <div class="ts-speaker">
                      <div class="speaker-img">
                         <img class="img-fluid" src="images/speakers/baptista.jpg" alt="">
@@ -743,6 +741,3 @@ title: Protein Electrostatics 2020, Genova
             <img class="shap4" src="images/shap/Direction_memphis1.png" alt="">
          </div>
       </section>
-      <!-- ts map direction end-->
-
-</div>
