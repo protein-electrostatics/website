@@ -185,73 +185,10 @@ title: Protein Electrostatics 2020, Genova
       </div><!-- row end-->
       <div class="row">
         <div class="col-lg-3 col-md-6">
-          <div class="ts-speaker">
-            <div class="speaker-img">
-              <img class="img-fluid" src="images/speakers/simonson.jpg" alt="">
-              <a href="#popup_1" class="view-speaker ts-image-popup" data-effect="mfp-zoom-in">
-                <i class="icon icon-plus"></i>
-              </a>
-            </div>
-            <div class="ts-speaker-info">
-              <h3 class="ts-title"><a href="#">Thomas Simonson</a></h3>
-              <p>
-                Ecole Polytechnique<br>France
-              </p>
-            </div>
-          </div>
-          <!-- popup start-->
-          <div id="popup_1" class="container ts-speaker-popup mfp-hide">
-            <div class="row">
-              <div class="col-lg-6">
-                <div class="ts-speaker-popup-img">
-                  <img src="images/speakers/simonson.jpg" alt="">
-                </div>
-              </div><!-- col end-->
-              <div class="col-lg-6">
-                <div class="ts-speaker-popup-content">
-                  <h3 class="ts-title">Thomas Simonson</h3>
-                  <span class="speakder-designation">Principal Investigator</span>
-                  <p>
-		    My group uses computer modeling and
-		    simulation to study structure-function
-		    relationships in proteins, as well as
-		    protein evolution. We use
-		    state-of-the-art simulation
-		    techniques, including computational
-		    protein design, molecular dynamics,
-		    continuum electrostatics, and free
-		    energy perturbation techniques, and a
-		    significant portion of our effort is
-		    directed at the development of new
-		    techniques as new needs arise.
-                  </p>
-                  <div class="row">
-                    <div class="col-lg-12">
-                      <div class="speaker-session-info">
-                        <h4>Day 1</h4>
-                        <span>
-                          10.30 - 11.30 am
-                        </span>
-                        <p>
-                          Computational protein design: software implementation, parameter optimization, and performance
-                        </p>
-                      </div>
-                    </div>
-                    
-                  </div>
-                  
-                </div><!-- ts-speaker-popup-content end-->
-              </div><!-- col end-->
-            </div><!-- row end-->
-          </div><!-- popup end-->
-        </div> <!-- col end-->
-        <div class="col-lg-3 col-md-6">
                   <div class="ts-speaker">
                      <div class="speaker-img">
                         <img class="img-fluid" src="images/speakers/baptista.jpg" alt="">
-                        <a href="#popup_2"  class="view-speaker ts-image-popup" data-effect="mfp-zoom-in">
-                                    <i class="icon icon-plus"></i>
-                                </a>
+                        
                      </div>
                      <div class="ts-speaker-info">
                         <h3 class="ts-title"><a href="#">António Baptista</a></h3>
@@ -260,54 +197,28 @@ title: Protein Electrostatics 2020, Genova
                         </p>
                      </div>
                   </div>
-                  <!-- popup start-->
-                  <div id="popup_2" class="container ts-speaker-popup mfp-hide">
-                     <div class="row">
-                        <div class="col-lg-6">
-                           <div class="ts-speaker-popup-img">
-                              <img src="images/speakers/speaker2.jpg" alt="">
-                           </div>
-                        </div><!-- col end-->
-                        
-                        
-                     </div><!-- row end-->
-                  </div><!-- popup end-->
+                  
                </div> <!-- col end-->
                <div class="col-lg-3 col-md-6">
                   <div class="ts-speaker">
                      <div class="speaker-img">
-                        <img class="img-fluid" src="images/speakers/brooks.jpg" alt="">
-                        <a href="#popup_3" class="view-speaker ts-image-popup" data-effect="mfp-zoom-in">
-                                    <i class="icon icon-plus"></i>
-                                </a>
+                        <img class="img-fluid" src="images/speakers/gunner.jpg" alt="">
+                        
                      </div>
                      <div class="ts-speaker-info">
-                        <h3 class="ts-title"><a href="#">Bernard Brooks</a></h3>
+                        <h3 class="ts-title"><a href="#">Marilyn Gunner</a></h3>
                         <p>
-                           National Institutes of Health<br>USA
+                           The City College of New York<br>USA
                         </p>
                      </div>
                   </div>
-                  <!-- popup start-->
-                  <div id="popup_3" class="container ts-speaker-popup mfp-hide">
-                     <div class="row">
-                        <div class="col-lg-6">
-                           <div class="ts-speaker-popup-img">
-                              <img src="images/speakers/speaker3.jpg" alt="">
-                           </div>
-                        </div><!-- col end-->
-                        
-                   
-                     </div><!-- row end-->
-                  </div><!-- popup end-->
+                  
                </div> <!-- col end-->
                <div class="col-lg-3 col-md-6">
                   <div class="ts-speaker">
                      <div class="speaker-img">
                         <img class="img-fluid" src="images/speakers/moreno.jpg" alt="">
-                        <a href="#popup_4" class="view-speaker ts-image-popup" data-effect="mfp-zoom-in">
-                                    <i class="icon icon-plus"></i>
-                                </a>
+                        
                      </div>
                      <div class="ts-speaker-info">
                         <h3 class="ts-title"><a href="#" style="font-size: 23px;">Bertrand Garcia-Moreno</a></h3>
@@ -316,19 +227,155 @@ title: Protein Electrostatics 2020, Genova
                         </p>
                      </div>
                   </div>
-                  <!-- popup start-->
-                  <div id="popup_4" class="container ts-speaker-popup mfp-hide">
-                     <div class="row">
-                        <div class="col-lg-6">
-                           <div class="ts-speaker-popup-img">
-                              <img src="images/speakers/speaker4.jpg" alt="">
-                           </div>
-                        </div><!-- col end-->
-                        
-                        
-                     </div><!-- row end-->
-                  </div><!-- popup end-->
+                  
                </div> <!-- col end-->
+
+	       <div class="col-lg-3 col-md-6">
+                  <div class="ts-speaker">
+                     <div class="speaker-img">
+                        <img class="img-fluid" src="images/speakers/wei.jpg" alt="">
+                        
+                     </div>
+                     <div class="ts-speaker-info">
+                        <h3 class="ts-title"><a href="#" style="font-size: 23px;">Guo-Wei Wei</a></h3>
+                        <p>
+                           Michigan State University<br>USA
+                        </p>
+                     </div>
+                  </div>
+                  
+               </div> <!-- col end-->
+
+	       <div class="col-lg-3 col-md-6">
+                  <div class="ts-speaker">
+                     <div class="speaker-img">
+                        <img class="img-fluid" src="images/speakers/zhou.jpg" alt="">
+                        
+                     </div>
+                     <div class="ts-speaker-info">
+                        <h3 class="ts-title"><a href="#" style="font-size: 23px;">Huan-Xiang Zhou</a></h3>
+                        <p>
+                           University of Illinois at Chicago<br>USA
+                        </p>
+                     </div>
+                  </div>
+                  
+               </div> <!-- col end-->
+
+	       <div class="col-lg-3 col-md-6">
+                  <div class="ts-speaker">
+                     <div class="speaker-img">
+                        <img class="img-fluid" src="images/speakers/luo.jpg" alt="">
+                        
+                     </div>
+                     <div class="ts-speaker-info">
+                        <h3 class="ts-title"><a href="#" style="font-size: 23px;">Ray Luo</a></h3>
+                        <p>
+                           University of California Irvine<br>USA
+                        </p>
+                     </div>
+                  </div>
+                  
+               </div> <!-- col end-->
+
+	       <div class="col-lg-3 col-md-6">
+                  <div class="ts-speaker">
+                     <div class="speaker-img">
+                        <img class="img-fluid" src="images/speakers/podgornik.jpg" alt="">
+                        
+                     </div>
+                     <div class="ts-speaker-info">
+                        <h3 class="ts-title"><a href="#" style="font-size: 23px;">Rudi Podgornik</a></h3>
+                        <p>
+                           University of Ljubljana<br>Slovenia
+                        </p>
+                     </div>
+                  </div>
+                  
+               </div> <!-- col end-->
+
+	       
+	       <div class="col-lg-3 col-md-6">
+                  <div class="ts-speaker">
+                     <div class="speaker-img">
+                        <img class="img-fluid" src="images/speakers/machuqueiro.jpg" alt="">
+                        
+                     </div>
+                     <div class="ts-speaker-info">
+                        <h3 class="ts-title"><a href="#" style="font-size: 23px;">Miguel Machuqueiro</a></h3>
+                        <p>
+                           University of Lisbon<br>Portugal
+                        </p>
+                     </div>
+                  </div>            
+               </div> <!-- col end-->
+	       
+	       <div class="col-lg-3 col-md-6">
+                  <div class="ts-speaker">
+                     <div class="speaker-img">
+                        <img class="img-fluid" src="images/speakers/friedman.jpg" alt="">
+                        
+                     </div>
+                     <div class="ts-speaker-info">
+                        <h3 class="ts-title"><a href="#" style="font-size: 23px;">Ran Friedman</a></h3>
+                        <p>
+                           Linnaeus University<br>Sweden
+                        </p>
+                     </div>
+                  </div>
+                  
+               </div> <!-- col end-->
+
+	       <div class="col-lg-3 col-md-6">
+                  <div class="ts-speaker">
+                     <div class="speaker-img">
+                        <img class="img-fluid" src="images/speakers/krasny.jpg" alt="">
+                        
+                     </div>
+                     <div class="ts-speaker-info">
+                        <h3 class="ts-title"><a href="#" style="font-size: 23px;">Robert Krasny</a></h3>
+                        <p>
+                           University of Michigan<br>USA
+                        </p>
+                     </div>
+                  </div>
+                  
+               </div> <!-- col end-->
+
+	       <div class="col-lg-3 col-md-6">
+                  <div class="ts-speaker">
+                     <div class="speaker-img">
+                        <img class="img-fluid" src="images/speakers/laue.jpg" alt="">
+                        
+                     </div>
+                     <div class="ts-speaker-info">
+                        <h3 class="ts-title"><a href="#" style="font-size: 23px;">Thomas Laue</a></h3>
+                        <p>
+                           University of New Hampshire<br>USA
+                        </p>
+                     </div>
+                  </div>
+               </div> <!-- col end-->
+
+	       <div class="col-lg-3 col-md-6">
+                  <div class="ts-speaker">
+                     <div class="speaker-img">
+                        <img class="img-fluid" src="images/speakers/webb.jpg" alt="">
+                        
+                     </div>
+                     <div class="ts-speaker-info">
+                        <h3 class="ts-title"><a href="#" style="font-size: 23px;">Lauren Webb</a></h3>
+                        <p>
+                           University of Texas at Austin<br>USA
+                        </p>
+                     </div>
+                  </div>
+               </div> <!-- col end-->
+
+
+                        
+
+	       
 	    </div><!-- row end-->
          </div><!-- container end-->
 	 
@@ -419,11 +466,16 @@ title: Protein Electrostatics 2020, Genova
                            </a>
                         </li>
                      </ul>
-                     <!-- Tab panes -->
+                     
                   </div>
                </div><!-- col end-->
 
             </div><!-- row end-->
+
+
+	    <h3 style="text-align: center">Coming Soon</h3>
+
+	    <!-- 
             <div class="row">
                <div class="col-lg-12">
                   <div class="tab-content schedule-tabs schedule-tabs-item">
@@ -439,7 +491,7 @@ title: Protein Electrostatics 2020, Genova
                                    Accurate PDZ:peptide binding specificity with additive and polarizable free energy simulations
                                  </p>
                               </div>
-                           </div><!-- col end-->
+                           </div>
                            <div class="col-lg-6">
                               <div class="schedule-listing-item schedule-right">
                                  <img class="schedule-slot-speakers" src="images/speakers/baptista.jpg" alt="">
@@ -450,12 +502,12 @@ title: Protein Electrostatics 2020, Genova
                                    Electrostatics of peptide dendrimers
                                  </p>
                               </div>
-                           </div><!-- col end-->
-                        </div><!-- row end-->
+                           </div>
+                        </div>
                         <div class="schedule-listing-btn">
                            <a href="#" class="btn">More Details</a>
                         </div>
-                     </div><!-- tab pane end-->
+                     </div>
 
 		     <div role="tabpanel" class="tab-pane" id="date2">
                         <div class="row">
@@ -469,7 +521,7 @@ title: Protein Electrostatics 2020, Genova
                                    Accurate PDZ:peptide binding specificity with additive and polarizable free energy simulations
                                  </p>
                               </div>
-                           </div><!-- col end-->
+                           </div>
                            <div class="col-lg-6">
                               <div class="schedule-listing-item schedule-right">
                                  <img class="schedule-slot-speakers" src="images/speakers/baptista.jpg" alt="">
@@ -480,14 +532,14 @@ title: Protein Electrostatics 2020, Genova
                                    Electrostatics of peptide dendrimers
                                  </p>
                               </div>
-                           </div><!-- col end-->
-                        </div><!-- row end-->
+                           </div>
+                        </div>
                         <div class="schedule-listing-btn">
                            <a href="#" class="btn">More Details</a>
                         </div>
-                     </div><!-- tab pane end-->
+                     </div>
 
-               </div>
+               </div><!-- tab pane end-->
             </div>
          </div><!-- container end-->
       </section>

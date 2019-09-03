@@ -34,8 +34,8 @@
           <li class="dropdown nav-item">
             <a data-toggle="dropdown">Registration <i class="fa fa-angle-down"></i></a>
             <ul class="dropdown-menu" role="menu">
-              <li><a href="registration.html">Registration</a></li>
-              <li><a href="abstrat-submission.html">Abstract Submission</a></li>
+              <li><a style="cursor: default; color: #666" href="">Registration</a></li>
+              <li><a style="cursor: default; color: #666" href="">Abstract Submission</a></li>
             </ul>
           </li>
           <li class="nav-item dropdown">
@@ -44,7 +44,6 @@
               <li><a href="venue.html" style="cursor: default; color: #666">Venue</a></li>
               <li><a href="genova.html">Genova</a></li>
 	      <li><a href="accomodation.html" style="cursor: default; color: #666">Accomodation</a></li>
-	      <li><a href="contacts.html">Contacts</a></li>
 	      <li><a href="past-editions.html">Past Editions</a></li>
             </ul>
           </li>

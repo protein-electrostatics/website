@@ -3,24 +3,40 @@ layout: main
 title: Participants | Protein Electrostatics 2020, Genova
 ---
 
-<p>Antonio Baptista, Universidade Nova de Lisboa   </p>
-<p>Bertrand Garcia-Moreno, Johns Hopkins University</p>
-<p>Marilyn Gunner, City College of New York	   </p>
-<p>Miguel Machuqueiro, Universidade de Lisboa	   </p>
-<p>Walter Rocchia, Istituto Italiano di Tecnologia </p>
-<p>Pedro Reis, University of Lisbon		   </p>
-<p>						   </p>
-<p>Webb, Lauren J <lwebb@cm.utexas.edu>		   </p>
-<p>Laue, Thomas <Tom.Laue@unh.edu>		   </p>
-<p>Robert Krasny <krasny@umich.edu>		   </p>
-<p>Ran Friedman <ran.friedman@lnu.se>		   </p>
-<p>rudi podgornik <podgornik@mac.com>		   </p>
-<p>Ray Luo <rluo@uci.edu>			   </p>
-<p>Zhou, Huan-Xiang <hzhou43@uic.edu>		   </p>
-<p>Jim Warwicker <j.warwicker@manchester.ac.uk>	   </p>
-<p>Charles Brooks <brookscl@umich.edu>??????	   </p>
-<p>Wei, Guowei <weig@msu.edu>			   </p>
-<p>						   </p>
-<p>https://pageclip.co/site/protein-electrostatics/</p>
-
-<p>https://formsubmit.io/#</p>
+<section id="ts-speakers" class="ts-speakers section-bg" style="padding-top: 75px;">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 mx-auto">
+        <h2 class="section-title text-center">
+          <span>PE2020</span>
+          Confirmed Participants
+        </h2>
+      </div><!-- col end-->
+    </div><!-- row end-->
+    <div class="row">
+      <ul>
+	
+	<li>Antonio Baptista, Universidade Nova de Lisboa      </li>
+	<li>Bertrand Garcia-Moreno, Johns Hopkins University   </li>
+	<li>Marilyn Gunner, City College of New York	       </li>
+	<li>Walter Rocchia, Istituto Italiano di Tecnologia    </li>
+	<li>Miguel Machuqueiro, Universidade de Lisboa	       </li>
+	<li>Lauren Webb, University of Texas at Austin         </li>
+	<li>Thomas Laue, University of New Hampshire           </li>
+	<li>Robert Krasny, University of Michigan              </li>
+	<li>Ran Friedman, Linnaeus University		       </li>
+	<li>Rudi Podgornik, University of Ljubljana	       </li>
+	<li>Ray Luo, University of California Irvine           </li>
+	<li>Huan-Xiang Zhou, University of Illinois at Chicago </li>
+	<li>Jim Warwicker, University of Manchester            </li>
+	<li>Charles Brooks, University of Michigan	       </li>
+	<li>Guo-Wei Wei, Michigan State University	       </li>
+	<li>Pedro Reis, University of Lisbon		       </li>
+	<li>Tomás Silva, University of Lisbon                  </li>
+	<li>Nicola Scafuri, Istituto Italiano di Tecnologia    </li>
+	<li>Miguel Soler, Istituto Italiano di Tecnologia      </li>
+ 	
+      </ul>
+    </div>
+    
+</section>

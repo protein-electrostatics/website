@@ -10,8 +10,8 @@ tab rotate
   .hero-area.centerd-item .banner-item {
     min-height: 650px; }
     .hero-area.centerd-item .banner-item:after {
-      width: 500px;
-      height: 500px; }
+      width: 0px;
+      height: 0px; }
     .hero-area.centerd-item .banner-item .banner-content-wrap {
       padding: 50px 0; }
   .hero-area.content-left .banner-item {
@@ -42,7 +42,28 @@ tab rotate
   .ts-blog .post .post-body .entry-header .entry-title {
     font-size: 20px; }
   .ts-exp-wrap .ts-exp-content .column-title {
-    font-size: 32px; } }
+      font-size: 32px; }
+  .banner-item {
+      background-image: url(../images/hero_area/main.jpeg) !important;
+      background-position-y: -25px;
+  }
+  .banner-info {
+      MARGIN-TOP: 28% !important;
+      COLOR: #2f0063 !important;
+  }
+  .banner-title {
+      COLOR: #2f0063 !important;
+  } 
+  .countdown .counter-item span {
+      color: #444
+  }
+  .countdown .counter-item .smalltext {
+      color: #777
+  }
+  .hero-area.centerd-item .banner-item .banner-content-wrap .banner-title {
+      font-size: 54px
+  }
+}
 
 /*==========================
 tab device 
@@ -64,9 +85,9 @@ tab device
     width: auto;
     height: auto; }
   .header .navbar-light .navbar-toggler {
-    background: #e7015e;
+    background: #2f0063;
     color: #fff;
-    border-color: #e7015e; }
+    border-color: #2f0063; }
   .header ul.navbar-nav > li > a {
     line-height: 40px !important; }
     .header ul.navbar-nav > li > a i {
@@ -79,7 +100,7 @@ tab device
   .header-classic {
     padding: 10px 0; }
   .header-transparent .navbar-toggler {
-    background: #e7015e;
+    background: #2f0063;
     color: #fff; }
   .header-transparent .navbar-nav {
     background: #222;
@@ -236,7 +257,25 @@ tab device
   .ts-footer.ts-footer-item .copyright-text.text-right {
     text-align: center !important; }
   .ts-footer.ts-footer-item .newsletter-form {
-    margin-top: 40px; } }
+      margin-top: 40px; }
+  .post .post-media.post-image {
+      margin: auto !important;
+      width: calc(100% - 200px) !important;
+      z-index: 30 !important;
+  }
+  .post .post-body {
+      margin: -200px auto !important;
+      z-index: 1 !important;
+      text-align: center !important;
+      margin-bottom: 10px !important;
+  }
+  .post .entry-header {
+      margin-top: 185px  !important;
+  }
+  .schedule-listing-btn {
+      float: none !important;
+  }
+}
 
 /*==========================
 small device /mobile sm and large
@@ -255,9 +294,9 @@ small device /mobile sm and large
   .header.header-transparent.nav-border .navbar {
     padding: 10px 0; }
   .header .navbar-light .navbar-toggler {
-    background: #e7015e;
+    background: #2f0063;
     color: #fff;
-    border-color: #e7015e; }
+    border-color: #2f0063; }
   .header ul.navbar-nav > li > a {
     line-height: 40px !important; }
     .header ul.navbar-nav > li > a i {
@@ -501,8 +540,6 @@ small device /mobile sm and large
     padding: 40px 20px; }
   .newsletter-form {
     padding: 0 20px; }
-  .ts-footer {
-    padding: 290px 0 60px; }
   .ts-footer.ts-footer-item .newsletter-form {
     margin-top: 40px; }
   .ts-footer.ts-footer-item .footer-menu,
@@ -612,4 +649,53 @@ small device /mobile sm and large
     font-size: 14px;
     margin-right: 0; }
   .direction-tabs-content .contact-info-box {
-    margin-bottom: 30px; } }
+      margin-bottom: 30px; }
+  .banner-item {
+      background-image: url(../images/hero_area/main.jpeg) !important;
+  }
+  .banner-info {
+      MARGIN-TOP: 50% !important;
+      COLOR: #666 !important;
+  }
+  .banner-title {
+      COLOR: #2f0063 !important;
+  }
+  .hero-area.centerd-item .banner-item:after {
+      width: 0px;
+      height: 0px; }
+  .countdown {
+      display: none
+  }
+    .post .post-media.post-image {
+      margin: auto !important;
+      width:90% !important;
+      z-index: 30 !important;
+  }
+  .post .post-body {
+      margin: -200px auto !important;
+      z-index: 1 !important;
+      text-align: center !important;
+      margin-bottom: 10px !important;
+      width: 90% !important;
+  }
+  .post .entry-header {
+      margin-top: 185px  !important;
+  }
+  .schedule-listing-btn {
+      float: none !important;
+  }
+  .ts-speakers iframe {
+      max-width: 100%
+  }
+
+}
+
+@media (max-width: 350px) {
+    .banner-info {
+	MARGIN-TOP: 60% !important;
+	COLOR: #666 !important;
+    }
+    .ts-intro-sponsors .sponsors-logo img {
+	max-width: 200px
+    }
+}
