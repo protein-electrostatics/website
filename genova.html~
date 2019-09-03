@@ -75,6 +75,62 @@ title: Genova | Protein Electrostatics 2020, Genova
             </div>
           </div>
         </div> <!-- col end-->
+	<div class="col-lg-3 col-md-6">
+          <div class="ts-speaker">
+            <div class="speaker-img">
+              <img class="img-fluid" src="images/venue/boccadasse.jpg" alt="">
+
+            </div>
+            <div class="ts-speaker-info">
+              <h3 class="ts-title">Boccadasse</h3>
+              <p>
+                Sightseeing
+              </p>
+            </div>
+          </div>
+        </div> <!-- col end-->
+	<div class="col-lg-3 col-md-6">
+          <div class="ts-speaker">
+            <div class="speaker-img">
+              <img class="img-fluid" src="images/venue/lanterna.jpg" alt="">
+
+            </div>
+            <div class="ts-speaker-info">
+              <h3 class="ts-title">Lanterna</h3>
+              <p>
+                Landmark
+              </p>
+            </div>
+          </div>
+        </div> <!-- col end-->
+	<div class="col-lg-3 col-md-6">
+          <div class="ts-speaker">
+            <div class="speaker-img">
+              <img class="img-fluid" src="images/venue/focaccia.png" alt="">
+
+            </div>
+            <div class="ts-speaker-info">
+              <h3 class="ts-title">Focaccia</h3>
+              <p>
+                Food
+              </p>
+            </div>
+          </div>
+        </div> <!-- col end-->
+	<div class="col-lg-3 col-md-6">
+          <div class="ts-speaker">
+            <div class="speaker-img">
+              <img class="img-fluid" src="images/venue/anita.jpg" alt="">
+
+            </div>
+            <div class="ts-speaker-info">
+              <h3 class="ts-title">Anita Garibaldi's Walk</h3>
+              <p>
+                Outdoor Activity
+              </p>
+            </div>
+          </div>
+        </div> <!-- col end-->
     </div><!-- row end-->
   </div><!-- container end-->
 
