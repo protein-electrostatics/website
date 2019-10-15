@@ -1,4 +1,0 @@
-User-agent: *
-Disallow: /wp-admin/
-
-Sitemap: http://www.electrostatics-berlin.de/sitemap.xml
