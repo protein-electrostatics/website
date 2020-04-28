@@ -1,0 +1,15 @@
+---
+layout: main
+title: Poll - Protein Electrostatics 2020, Genova
+---
+<section style="padding: 10px 0;">
+   <p style="text-align: center;">There have been some reports that in some cases the poll does is not working properly. We are very sorry about the inconvenience and we are actively working on fixing the issue.</p>
+</section>
+<section class="ts-schedule section-bg" style="min-height: calc(30vh + 300px);">
+   <div class="container">
+      <div class="row">
+        <iframe onload="javascript:parent.scrollTo(0,0);" height="1967" allowTransparency="true" scrolling="no" frameborder="0" style="width:100%;border:none" src="https://forms.iit.it/embed.php?id=272850" title="COVID-19 outbreak - We need your input!"><a href="https://forms.iit.it/view.php?id=272850" title="COVID-19 outbreak - We need your input!">COVID-19 outbreak - We need your input!</a></iframe>
+     </div>
+  </div>
+</section>
+
