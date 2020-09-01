@@ -6,7 +6,7 @@
 	Description: Exhibit - Conference & Event HTML Template
 	Version: 1.0
    =====================
-   table of content 
+   table of content
    ====================
    1.   menu toogle
    2.   event counter
@@ -19,7 +19,7 @@
    9.   hero area image animation
    10.  wow animated
    11.  back to top
-  
+
 */
 
 
@@ -41,7 +41,7 @@ jQuery(function ($) {
    });
 
    /* ---------------------------------------------
-                     Menu Toggle 
+                     Menu Toggle
    ------------------------------------------------ */
 
    if ($(window).width() < 991) {
@@ -52,12 +52,12 @@ jQuery(function ($) {
    }
 
    /* ----------------------------------------------------------- */
-   /*  Event counter 
+   /*  Event counter
    /* -----------------------------------------------------------*/
 
    if ($('.countdown').length > 0) {
       $(".countdown").jCounter({
-         date: '22 June 2020 09:00:00',
+         date: '22 September 2020 09:00:00',
          fallback: function () {
             console.log("count finished!")
          }
@@ -66,7 +66,7 @@ jQuery(function ($) {
 
 
    /*==========================================================
-     funfact 
+     funfact
      ======================================================================*/
    var skl = true;
    $('.ts-funfact').appear();
@@ -288,6 +288,15 @@ jQuery(function ($) {
          scrollTop: 0
       }, 800);
    });
+
+
+   /* ----------------------------------------------------------- */
+   /*  Popup Main
+   /* ----------------------------------------------------------- */
+   $(window).on('load', function () {
+      $('#popup-main').modal('show');
+   });
+
 
 
 });
