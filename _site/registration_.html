@@ -143,15 +143,19 @@
   <div class="body-inner">
     <!-- banner start-->
 
-    <section class="ts-schedule section-bg">
+    <section class="ts-schedule section-bg" style="min-height: calc(30vh + 300px);">
    <div class="container">
       <div class="row">
-         <iframe onload="javascript:parent.scrollTo(0,0);" height="1884" allowTransparency="true" scrolling="no"
-            frameborder="0" style="width:100%;border:none" src="https://forms.iit.it/embed.php?id=283296"
-            title="Protein Electrostatics Online Edition Registration and Abstract S..."><a
-               href="https://forms.iit.it/view.php?id=283296"
-               title="Protein Electrostatics Online Edition Registration and Abstract S...">Protein Electrostatics
-               Online Edition Registration and Abstract S...</a></iframe>
+         <div id="mf_placeholder" data-formurl="//forms.iit.it/embed.php?id=283296" data-formheight="1877"
+            data-formtitle="Protein Electrostatics Online Edition Registration and Abstract S..."
+            data-paddingbottom="10">
+         </div>
+         <script>
+            (function (f, o, r, m) {
+               r = f.createElement('script'); r.async = 1; r.src = o + 'js/mf.js';
+               m = f.getElementById('mf_placeholder'); m.parentNode.insertBefore(r, m);
+            })(document, '//forms.iit.it/');
+         </script>
       </div>
 </section>
 
