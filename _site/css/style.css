@@ -1483,8 +1483,8 @@ img.pull-right {
   .schedule-tabs-item .schedule-listing-item .schedule-slot-speakers {
     position: absolute;
     top: 60px;
-    width: 50px;
-    height: 50px;
+    width: 75px;
+    height: 75px;
     border-radius: 50%;
     -webkit-border-radius: 50%;
     -ms-border-radius: 50%;
