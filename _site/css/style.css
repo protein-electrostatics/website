@@ -1,4 +1,4 @@
-/*
+/* #006063
 	Template Name: exhibit
 	Author: Themewinter
 	Author URI: https://themeforest.net/user/tripples
@@ -310,7 +310,7 @@ img.pull-right {
 .column-title {
   font-size: 36px;
   font-weight: 800;
-  color: #3b1d82;
+  color: #003d00;
   position: relative;
   padding-bottom: 30px;
   margin-bottom: 85px;
@@ -507,7 +507,7 @@ img.pull-right {
 .header.header-classic ul.navbar-nav {
   margin-top: 5px; }
   .header.header-classic ul.navbar-nav > li > a {
-    color: #2f0063;
+    color: #002a00;
     line-height: 74px; }
     .header.header-classic ul.navbar-nav > li > a:hover {
       color: #00c1c1; }
@@ -692,7 +692,7 @@ img.pull-right {
     left: 0;
     top: -45px;
     margin: auto;
-    background: #2f0063;
+    background: #002a00;
     content: '';
     border-radius: 50%;
     -webkit-border-radius: 50%;
@@ -1074,7 +1074,7 @@ img.pull-right {
       width: 100%;
       height: 100%;
       content: '';
-      background: rgba(59, 29, 130, 0.5);
+      background: rgba(0, 54.5, 0, 0.5);
       -o-transition: all 0.4s ease;
       transition: all 0.4s ease;
       -webkit-transition: all 0.4s ease;
@@ -1235,10 +1235,10 @@ img.pull-right {
     width: 100%;
     height: 100%;
     content: '';
-    background-image: -webkit-gradient(linear, left top, right top, from(#321575), color-stop(51%, #8d0b93), color-stop(100%, #ff0066), to(#ff057c));
-    background-image: -webkit-linear-gradient(left, #321575 0%, #8d0b93 51%, #ff0066 100%, #ff057c 100%);
-    background-image: -o-linear-gradient(left, #321575 0%, #8d0b93 51%, #ff0066 100%, #ff057c 100%);
-    background-image: linear-gradient(90deg, #321575 0%, #8d0b93 51%, #ff0066 100%, #ff057c 100%);
+    background-image: -webkit-gradient(linear, left top, right top, from(#003400), color-stop(51%, #006300), color-stop(100%, #00a3a4), to(#00a3a4));
+    background-image: -webkit-linear-gradient(left, #003400 0%, #006300 51%, #00a3a4 100%, #00a3a4 100%);
+    background-image: -o-linear-gradient(left, #003400 0%, #006300 51%, #00a3a4 100%, #00a3a4 100%);
+    background-image: linear-gradient(90deg, #003400 0%, #006300 51%, #00a3a4 100%, #00a3a4 100%);
     opacity: 0.302; }
   .ts-exp-wrap .ts-exp-content {
     padding: 90px 80px;
@@ -1376,7 +1376,7 @@ img.pull-right {
     .schedule-listing .schedule-slot-info p {
       margin-bottom: 0; }
   .schedule-listing:hover .schedule-slot-title {
-    color: #3b1d82; }
+    color: #003d00; }
   .schedule-listing:nth-of-type(even) .schedule-slot-time {
     background: #00c1c1; }
   .schedule-listing.launce .schedule-slot-time {
@@ -1589,13 +1589,13 @@ img.pull-right {
   .ts-pricing-box .ts-pricing-header .ts-pricing-name {
     font-size: 20px;
     font-weight: 800;
-    color: #3b1d82;
+    color: #003d00;
     text-transform: uppercase;
     margin-bottom: 15px; }
   .ts-pricing-box .ts-pricing-header .ts-pricing-price {
     font-size: 58px;
     font-weight: 900;
-    color: #3b1d82;
+    color: #003d00;
     margin-bottom: 20px; }
     .ts-pricing-box .ts-pricing-header .ts-pricing-price span {
       margin-right: 10px; }
@@ -1658,7 +1658,7 @@ img.pull-right {
     -ms-border-radius: 50%;
     display: block;
     margin: auto;
-    background: #3b1d82;
+    background: #003d00;
     color: #fff;
     padding: 45px 0;
     margin-top: -100px;
@@ -1666,7 +1666,7 @@ img.pull-right {
   .ts-pricing-item .ts-pricing-name {
     font-size: 24px;
     font-weight: 700;
-    color: #3b1d82;
+    color: #003d00;
     margin-bottom: 35px; }
   .ts-pricing-item .ts-pricing-price {
     font-size: 48px;
@@ -1684,11 +1684,11 @@ img.pull-right {
     .ts-pricing-item .ts-pricing-price span {
       position: relative;
       z-index: 1;
-      color: #3b1d82; }
+      color: #003d00; }
   .ts-pricing-item p {
     margin-bottom: 30px; }
   .ts-pricing-item .btn {
-    background: #3b1d82; }
+    background: #003d00; }
   .ts-pricing-item.disebled {
     cursor: no-drop;
     opacity: .7; }
@@ -1790,7 +1790,7 @@ img.pull-right {
     .post .post-body .entry-header .entry-title a {
       color: #222222; }
       .post .post-body .entry-header .entry-title a:hover {
-        color: #3b1d82; }
+        color: #003d00; }
   .post .post-body .entry-content p {
     line-height: 26px;
     color: #888888; }
@@ -1799,7 +1799,7 @@ img.pull-right {
   -webkit-box-shadow: 0px 20px 30px 0px rgba(0, 0, 0, 0.1);
   box-shadow: 0px 20px 30px 0px rgba(0, 0, 0, 0.1); }
   .post:hover .post-body .entry-header .entry-title a {
-    color: #3b1d82; }
+    color: #003d00; }
 
 .main-container .post .post-body {
   margin-bottom: 50px; }
@@ -1840,7 +1840,7 @@ img.pull-right {
     font-weight: 900;
     margin-bottom: 15px; }
     .post .post-body .entry-header .entry-title a {
-      color: #3b1d82; }
+      color: #003d00; }
       .post .post-body .entry-header .entry-title a:hover {
         color: #00c1c1; }
   .post .post-body .entry-content p {
@@ -2058,7 +2058,7 @@ img.pull-right {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
-  background-color: #3b1d82;
+  background-color: #003d00;
   padding: 55px 0 60px;
   position: absolute;
   width: 100%;
@@ -2462,7 +2462,7 @@ img.pull-right {
   .blog-details .entry-header .entry-title {
     font-size: 30px; }
     .blog-details .entry-header .entry-title a {
-      color: #3b1d82; }
+      color: #003d00; }
 
 .blog-details .post-meta {
   position: relative;
@@ -2893,7 +2893,7 @@ faq-item
   padding: 30px; }
   .social-box .widget-title {
     font-size: 24px;
-    color: #3b1d82;
+    color: #003d00;
     margin-bottom: 20px; }
   .social-box ul {
     padding: 0;
