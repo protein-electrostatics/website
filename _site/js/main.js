@@ -21,7 +21,6 @@
    11.  back to top
 
 */
-
 jQuery(function ($) {
   /**-------------------------------------------------
    *Fixed HEader
