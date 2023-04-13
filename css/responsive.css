@@ -63,6 +63,9 @@ tab rotate
   .hero-area.centerd-item .banner-item .banner-content-wrap .banner-title {
       font-size: 54px
   }
+  .venue-img {
+    width: 45vw;
+  }
 }
 
 /*==========================
@@ -231,10 +234,6 @@ tab device
     margin: 0 0 30px; }
   .intro-content-text {
     margin-bottom: 40px; }
-  .venue-img {
-    margin-bottom: 30px; }
-    .venue-img img {
-      width: 100%; }
   .single-venue-content {
     margin-bottom: 40px; }
   .map-left .ts-map {
@@ -274,6 +273,9 @@ tab device
   }
   .schedule-listing-btn {
       float: none !important;
+  }
+  .venue-img {
+    width: 45vw;
   }
 }
 
@@ -607,10 +609,6 @@ small device /mobile sm and large
     margin-bottom: 0; }
   .intro-content-text {
     margin-bottom: 30px; }
-  .venue-img {
-    margin-bottom: 30px; }
-    .venue-img img {
-      width: 100%; }
   .single-venue-content {
     margin-bottom: 40px; }
   .ts-venue-feature {
@@ -687,7 +685,9 @@ small device /mobile sm and large
   .ts-speakers iframe {
       max-width: 100%
   }
-
+  .venue-img {
+    width: 75vw;
+  }
 }
 
 @media (max-width: 350px) {
@@ -697,5 +697,8 @@ small device /mobile sm and large
     }
     .ts-intro-sponsors .sponsors-logo img {
 	max-width: 200px
+    }
+    .venue-img {
+      width: 90vw;
     }
 }
