@@ -1,10 +1,10 @@
 /*
 
-	Template Name: Exhibit - Conference & Event HTML Template
-	Author: Themewinter
-	Author URI: https://themeforest.net/user/themewinter
-	Description: Exhibit - Conference & Event HTML Template
-	Version: 1.0
+    Template Name: Exhibit - Conference & Event HTML Template
+    Author: Themewinter
+    Author URI: https://themeforest.net/user/themewinter
+    Description: Exhibit - Conference & Event HTML Template
+    Version: 1.0
    =====================
    table of content
    ====================
@@ -51,7 +51,7 @@ jQuery(function ($) {
 
   if ($(".countdown").length > 0) {
     $(".countdown").jCounter({
-      date: "26 June 2023 09:00:00",
+      date: "23 June 2025 09:00:00",
       fallback: function () {
         console.log("count finished!");
       },
@@ -160,8 +160,8 @@ jQuery(function ($) {
   }
 
   /*=============================================================
-			 speaker popup
-	=========================================================================*/
+             speaker popup
+    =========================================================================*/
 
   $(".ts-image-popup").magnificPopup({
     type: "inline",
@@ -180,8 +180,8 @@ jQuery(function ($) {
   });
 
   /*=============================================================
-   			gallery
-   	=========================================================================*/
+            gallery
+    =========================================================================*/
 
   $(".ts-popup").magnificPopup({
     type: "image",
@@ -200,8 +200,8 @@ jQuery(function ($) {
   });
 
   /*=============================================================
-   			video popup
-   	=========================================================================*/
+            video popup
+    =========================================================================*/
 
   $(".ts-video-popup").magnificPopup({
     type: "iframe",
@@ -220,8 +220,8 @@ jQuery(function ($) {
   });
 
   /*=============================================================
-   			hero image animation
-   	=========================================================================*/
+            hero image animation
+    =========================================================================*/
   $(".tile")
     // tile mouse actions
     .on("mouseover", function () {
