@@ -12,7 +12,7 @@ google.maps.event.addDomListener(window, "load", function () {
    * create map
    */
   var map = new google.maps.Map(document.getElementById("map"), {
-    center: new google.maps.LatLng(44.405882,8.9439043),
+    center: new google.maps.LatLng(38.75734606852652,-9.157184104092963),
     zoom: 13,
 
       // Google maps style
@@ -219,34 +219,34 @@ google.maps.event.addDomListener(window, "load", function () {
     };
 
   var marker0 = createMarker({
-    position: new google.maps.LatLng(44.412823, 8.929982),
+    position: new google.maps.LatLng(38.74726359101594, -9.150363044576544),
     map: map,
-  }, "Hotel Cairoli ★★★<br/><a href='https://www.hotelcairoligenova.com/en/'>See More</a>");
+  }, "VIP Executive Entrecampos Hotel & Conference ★★★★<br/><a href='https://www.vipentrecamposhotel.com/en/'>See More</a>");
 
   var marker1 = createMarker({
-    position: new google.maps.LatLng(44.413490, 8.928708),
+    position: new google.maps.LatLng(38.748832421976196, -9.149366358070987),
     map: map,
-  }, "Hotel Helvetia ★★★<br/><a href='https://www.hotelhelvetiagenova.it/'>See More</a>");
+  }, "Hotel NH Lisboa Campo Grande ★★★★<br/><a href='https://www.nh-hotels.com/en/hotel/nh-lisboa-campo-grande'>See More</a>");
 
   var marker2 = createMarker({
-    position: new google.maps.LatLng(44.410022, 8.934915),
+    position: new google.maps.LatLng(38.75950472856518, -9.153715544576276),
     map: map,
-  }, "Best Western Hotel Metropoli ★★★<br/><a href='https://www.hotelmetropoli.it/'>See More</a>");
+  }, "Radisson Blu Hotel Lisbon ★★★★<br/><a href='https://www.radissonhotels.com/en-us/hotels/radisson-blu-lisbon'>See More</a>");
 
   var marker3 = createMarker({
-    position: new google.maps.LatLng(44.411431, 8.928333),
+    position: new google.maps.LatLng(38.74309242472702, -9.148139202246993),
     map: map,
-  }, "Hotel De Ville ★★★★ <br/><a href='https://hoteldeville.it/'>See More</a>");
+  }, "VIP Inn Berna Hotel ★★★<br/><a href='https://www.vipbernahotel.com/en/'>See More</a>");
 
   var marker4 = createMarker({
-    position: new google.maps.LatLng(44.406913, 8.936349),
+    position: new google.maps.LatLng(38.74300472487096, -9.1501047310822),
     map: map,
-  }, "Hotel Bristol Palace ★★★★<br/><a href='https://www.hotelbristolpalace.it/it'>See More</a>");
+  }, "VIP Executive Zurique Hotel ★★★<br/><a href='https://www.vipzuriquehotel.com/en/'>See More</a>");
 
   var marker5 = createMarker({
-    position: new google.maps.LatLng(44.416278, 8.923976),
+    position: new google.maps.LatLng(38.745546117340204, -9.159847358071133),
     map: map,
-  }, "Hotel Nuovo Nord  ★★★<br/><a href='https://www.hotelnuovonord.com/'>See More</a>");
+  }, "SANA Metropolitan Hotel ★★★★<br/><a href='https://www.sanahotels.com/hotel/sana-metropolitan/'>See More</a>");
 
 
 });
