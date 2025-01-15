@@ -1,8 +1,8 @@
 /* #006063
-	Template Name: exhibit
-	Author: Themewinter
-	Author URI: https://themeforest.net/user/tripples
-	Description: exhibit
+    Template Name: exhibit
+    Author: Themewinter
+    Author URI: https://themeforest.net/user/tripples
+    Description: exhibit
   Version: 1.0
 
 =====================
@@ -31,20 +31,20 @@
 20.  404  
 */
 /*
-	Template Name: Exhibit -  Conference & Event HTML Template
-	Author: Themewinter
-	Author URI: https://themeforest.net/user/tripples
-	Description: Eventor -  Conference & Event HTML Template
-	Version: 1.0
+    Template Name: Exhibit -  Conference & Event HTML Template
+    Author: Themewinter
+    Author URI: https://themeforest.net/user/tripples
+    Description: Eventor -  Conference & Event HTML Template
+    Version: 1.0
 */
 /* Table of Content
 ==================================================
-1.	Typography
+1.  Typography
 2.  Global Styles (body, link color, gap, ul, section-title, overlay etc)
 3.  Header area
-4.	Banner area
+4.  Banner area
 
-	
+    
 */
 @import url("https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,500,500i,700,700i,900,900i");
 @import url("https://fonts.googleapis.com/css?family=Raleway:300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i");
@@ -548,7 +548,7 @@ img.pull-right {
 
 @media (max-width: 370px) {
     .navbar a {
-	width: 80%
+    width: 80%
     }
 }
 @media (min-width: 991px) {
@@ -692,7 +692,7 @@ img.pull-right {
     left: 0;
     top: -45px;
     margin: auto;
-    background: #002a00;
+    background: #121212;
     content: '';
     border-radius: 50%;
     -webkit-border-radius: 50%;
