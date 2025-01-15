@@ -310,7 +310,7 @@ img.pull-right {
 .column-title {
   font-size: 36px;
   font-weight: 800;
-  color: #003d00;
+  color: #001e3d;
   position: relative;
   padding-bottom: 30px;
   margin-bottom: 85px;
@@ -507,7 +507,7 @@ img.pull-right {
 .header.header-classic ul.navbar-nav {
   margin-top: 5px; }
   .header.header-classic ul.navbar-nav > li > a {
-    color: #121212;
+    color: #172347;
     line-height: 74px; }
     .header.header-classic ul.navbar-nav > li > a:hover {
       color: #00c1c1; }
@@ -1376,7 +1376,7 @@ img.pull-right {
     .schedule-listing .schedule-slot-info p {
       margin-bottom: 0; }
   .schedule-listing:hover .schedule-slot-title {
-    color: #003d00; }
+    color: #001e3d; }
   .schedule-listing:nth-of-type(even) .schedule-slot-time {
     background: #00c1c1; }
   .schedule-listing.launce .schedule-slot-time {
@@ -1589,13 +1589,13 @@ img.pull-right {
   .ts-pricing-box .ts-pricing-header .ts-pricing-name {
     font-size: 20px;
     font-weight: 800;
-    color: #003d00;
+    color: #001e3d;
     text-transform: uppercase;
     margin-bottom: 15px; }
   .ts-pricing-box .ts-pricing-header .ts-pricing-price {
     font-size: 58px;
     font-weight: 900;
-    color: #003d00;
+    color: #001e3d;
     margin-bottom: 20px; }
     .ts-pricing-box .ts-pricing-header .ts-pricing-price span {
       margin-right: 10px; }
@@ -1658,7 +1658,7 @@ img.pull-right {
     -ms-border-radius: 50%;
     display: block;
     margin: auto;
-    background: #003d00;
+    background: #001e3d;
     color: #fff;
     padding: 45px 0;
     margin-top: -100px;
@@ -1666,7 +1666,7 @@ img.pull-right {
   .ts-pricing-item .ts-pricing-name {
     font-size: 24px;
     font-weight: 700;
-    color: #003d00;
+    color: #001e3d;
     margin-bottom: 35px; }
   .ts-pricing-item .ts-pricing-price {
     font-size: 48px;
@@ -1684,11 +1684,11 @@ img.pull-right {
     .ts-pricing-item .ts-pricing-price span {
       position: relative;
       z-index: 1;
-      color: #003d00; }
+      color: #001e3d; }
   .ts-pricing-item p {
     margin-bottom: 30px; }
   .ts-pricing-item .btn {
-    background: #003d00; }
+    background: #001e3d; }
   .ts-pricing-item.disebled {
     cursor: no-drop;
     opacity: .7; }
@@ -1790,7 +1790,7 @@ img.pull-right {
     .post .post-body .entry-header .entry-title a {
       color: #222222; }
       .post .post-body .entry-header .entry-title a:hover {
-        color: #003d00; }
+        color: #001e3d; }
   .post .post-body .entry-content p {
     line-height: 26px;
     color: #888888; }
@@ -1799,7 +1799,7 @@ img.pull-right {
   -webkit-box-shadow: 0px 20px 30px 0px rgba(0, 0, 0, 0.1);
   box-shadow: 0px 20px 30px 0px rgba(0, 0, 0, 0.1); }
   .post:hover .post-body .entry-header .entry-title a {
-    color: #003d00; }
+    color: #001e3d; }
 
 .main-container .post .post-body {
   margin-bottom: 50px; }
@@ -1840,7 +1840,7 @@ img.pull-right {
     font-weight: 900;
     margin-bottom: 15px; }
     .post .post-body .entry-header .entry-title a {
-      color: #003d00; }
+      color: #001e3d; }
       .post .post-body .entry-header .entry-title a:hover {
         color: #00c1c1; }
   .post .post-body .entry-content p {
@@ -2058,7 +2058,7 @@ img.pull-right {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
-  background-color: #003d00;
+  background-color: #001e3d;
   padding: 55px 0 60px;
   position: absolute;
   width: 100%;
@@ -2462,7 +2462,7 @@ img.pull-right {
   .blog-details .entry-header .entry-title {
     font-size: 30px; }
     .blog-details .entry-header .entry-title a {
-      color: #003d00; }
+      color: #001e3d; }
 
 .blog-details .post-meta {
   position: relative;
@@ -2893,7 +2893,7 @@ faq-item
   padding: 30px; }
   .social-box .widget-title {
     font-size: 24px;
-    color: #003d00;
+    color: #001e3d;
     margin-bottom: 20px; }
   .social-box ul {
     padding: 0;
