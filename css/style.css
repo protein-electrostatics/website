@@ -381,9 +381,9 @@ img.pull-right {
     position: absolute;
     left: 0;
     top: 0;
-    background-image: -webkit-linear-gradient(144deg, #32157542 0%, #8c0b9346 51%, #ff006641 100%, #ff057e32 100%);
-    background-image: -o-linear-gradient(144deg, #32157542 0%, #8c0b9346 51%, #ff006641 100%, #ff057e32 100%);
-    background-image: linear-gradient(144deg, #32157542 0%, #8c0b9346 51%, #ff006641 100%, #ff057e32 100%);
+    background-image: -webkit-linear-gradient(144deg, #3215751a 0%, #8c0b931f 51%, #ff006614 100%, #ff057e17 100%);
+    background-image: -o-linear-gradient(144deg, #3215751a 0%, #8c0b931f 51%, #ff006614 100%, #ff057e17 100%);
+    background-image: linear-gradient(144deg, #3215751a 0%, #8c0b931f 51%, #ff006614 100%, #ff057e17 100%);
     width: 100%;
     height: 100%;
     content: '';
