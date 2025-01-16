@@ -2123,7 +2123,7 @@ img.pull-right {
       ts-footer
  ==================================*/
 .ts-footer {
-  background: url('../images/banner_gradient.png');
+  /*background: url('../images/banner_gradient.png');*/
   padding: 50px 0 50px; }
 
 .ts-footer-social ul {
