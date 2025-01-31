@@ -12,7 +12,7 @@ google.maps.event.addDomListener(window, "load", function () {
    * create map
    */
   var map = new google.maps.Map(document.getElementById("map"), {
-    center: new google.maps.LatLng(44.405882,8.9439043),
+    center: new google.maps.LatLng(38.75687011929922, -9.155308225294679),
     zoom: 13,
 
       // Google maps style
