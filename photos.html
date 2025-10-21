@@ -18,14 +18,16 @@ title: Photos | Protein Electrostatics 2025, Genova
     <!-- Group Photo -->
     <div class="row justify-content-center" style="margin-bottom: 40px;">
       <div class="col-lg-10 col-md-12 text-center">
-        <div class="ts-speaker">
-          <div class="speaker-img">
-            <img class="img-fluid rounded" src="images/conference_photos/group_photo2025.jpg" alt="Group Photo PE2025" />
-          </div>
-          <div class="ts-speaker-info">
-            <h3 class="ts-title" style="margin-top: 15px;">Group Photo</h3>
-            <p>Protein Electrostatics 2025 – Lisbon, Portugal</p>
-          </div>
+    
+          <div class="ts-speaker">
+              <div class="group-photo-container">
+                <img class="img-fluid rounded" src="images/conference_photos/group_photo2025.jpg" alt="Group Photo PE2025" />
+              </div>
+              <div class="ts-speaker-info text-center">
+                <h3 class="ts-title" style="margin-top: 15px;">Group Photo</h3>
+                <p>Protein Electrostatics 2025 – Lisbon, Portugal</p>
+              </div>
+            </div>
         </div>
       </div>
     </div>
@@ -45,4 +47,27 @@ title: Photos | Protein Electrostatics 2025, Genova
     transform: scale(1.03);
     box-shadow: 0 4px 15px rgba(0,0,0,0.2);
   }
+
+  /* Override tiny square container from .speaker-img for group photo */
+  .group-photo-container {
+    width: 100%;
+    max-width: 900px; /* keeps it elegant on large screens */
+    margin: 0 auto;
+    overflow: hidden;
+    border-radius: 10px;
+  }
+
+  .group-photo-container img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+  }
+
+  /* Optional subtle hover zoom for effect */
+  .group-photo-container img:hover {
+    transform: scale(1.02);
+    transition: transform 0.4s ease;
+  }
+
+
 </style>
